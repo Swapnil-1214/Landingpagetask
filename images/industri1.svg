@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.004" height="49.004" viewBox="0 0 49.004 49.004">
+  <g id="Group_12980" data-name="Group 12980" transform="translate(-384 -8527.354)">
+    <g id="Ellipse_332" data-name="Ellipse 332" transform="translate(384 8527.354)" fill="none" stroke="#fb5012" stroke-width="2">
+      <ellipse cx="24.502" cy="24.502" rx="24.502" ry="24.502" stroke="none"/>
+      <ellipse cx="24.502" cy="24.502" rx="23.502" ry="23.502" fill="none"/>
+    </g>
+    <g id="car-repair" transform="translate(394.633 8538.445)">
+      <g id="Group_12979" data-name="Group 12979" transform="translate(0.367)">
+        <path id="Path_8956" data-name="Path 8956" d="M30.848,13.31c-.164-1.449-4.065,0-4.065,0l-.23,2.061a2.906,2.906,0,0,0-.262-.136l-.985-4.3A3.977,3.977,0,0,0,21.15,7.46H15.366a4.707,4.707,0,0,1-.161.7H21.54A2.884,2.884,0,0,1,24.387,10.4l1.058,4.244c-.067,0-.132-.008-.2-.008H12.978l0,4.137h7.6V19.7h-7.6v.27H20.5V20.9H12.982l0,3.476H21.1v2.2c0,.894,1.107,1.621,2.471,1.621s2.469-.726,2.469-1.621V24.117a2.81,2.81,0,0,0,1.977-2.524V17.654A2.622,2.622,0,0,0,26.763,15.5l4.085-.221A5.541,5.541,0,0,0,30.848,13.31Zm-4.68,7.516H21.71v-2.12h4.459v2.12Z" transform="translate(-4.906 -2.684)" fill="#fb5012"/>
+        <rect id="Rectangle_1574" data-name="Rectangle 1574" width="0.113" height="0.927" transform="translate(7.963 17.284)"/>
+        <rect id="Rectangle_1575" data-name="Rectangle 1575" width="0.035" height="0.925" transform="translate(8.041 16.09)"/>
+        <path id="Path_8957" data-name="Path 8957" d="M9.949,4.153A4.79,4.79,0,0,0,7.539,0V3.836L5.157,5.211,2.774,3.832V0a4.788,4.788,0,0,0,.22,8.426v15.8a2.26,2.26,0,1,0,4.521,0l-.01-15.9A4.789,4.789,0,0,0,9.949,4.153Zm-4.2,21.072a.863.863,0,1,1,0-1.222A.865.865,0,0,1,5.753,25.225Z" transform="translate(-0.367)" fill="#800020"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.004" height="49.004" viewBox="0 0 49.004 49.004">
+  <g id="Group_12982" data-name="Group 12982" transform="translate(-383.512 -8687.268)">
+    <g id="Ellipse_332" data-name="Ellipse 332" transform="translate(383.512 8687.268)" fill="none" stroke="#fb5012" stroke-width="2">
+      <circle cx="24.502" cy="24.502" r="24.502" stroke="none"/>
+      <circle cx="24.502" cy="24.502" r="23.502" fill="none"/>
+    </g>
+    <g id="mortarboard" transform="translate(394.444 8658.417)">
+      <path id="Path_8989" data-name="Path 8989" d="M26.611,47.021,13.835,42.513a.8.8,0,0,0-.529,0L.531,47.021a.8.8,0,0,0,0,1.5L13.3,53.062a.795.795,0,0,0,.533,0L26.613,48.52a.8.8,0,0,0,0-1.5Z" transform="translate(0)" fill="#800020"/>
+      <path id="Path_8990" data-name="Path 8990" d="M433.24,204.67v-6.936l-1.59.565v6.371a1.6,1.6,0,0,0,0,2.769v3.908a.8.8,0,0,0,1.59,0v-3.908a1.6,1.6,0,0,0,0-2.769Z" transform="translate(-408.009 -147.035)" fill="#fb5012"/>
+      <path id="Path_8991" data-name="Path 8991" d="M113.425,225.1a2.379,2.379,0,0,1-.8-.138l-7.182-2.553v3.5c0,.856.893,1.58,2.654,2.152a18.745,18.745,0,0,0,10.653,0c1.761-.572,2.654-1.3,2.654-2.152v-3.5l-7.182,2.553A2.38,2.38,0,0,1,113.425,225.1Z" transform="translate(-99.854 -170.405)" fill="#fb5012"/>
+    </g>
+  </g>
+</svg>
